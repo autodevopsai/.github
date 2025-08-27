@@ -74,7 +74,7 @@ hooks:
 | **DD-001** ADR Writer | Document decisions | `post_merge` | N/A |
 | **CQ-001** Test Generator | Create test scaffolding | `pre_commit` | ✅ |
 
-[View complete agent list →](https://github.com/autodevopsai/.github/wiki/Agent-Catalog)
+[View complete agent list →](https://www.autodevops.ai/directory)
 
 ## 📊 Expected Impact
 
@@ -120,5 +120,5 @@ MIT - See individual package repositories for details.
 <p align="center">
   <a href="https://autodevops.ai">Website</a> •
   <a href="https://twitter.com/autodevopsai">Twitter</a> •
-  <a href="mailto:hello@autodevops.ai">Contact</a>
+  <a href="mailto:hello@mail.autodevops.ai">Contact</a>
 </p>
