@@ -10,11 +10,9 @@ AI micro-agents that eliminate 80% of DevOps busywork. Zero platform migration r
 # TypeScript/Node.js
 npm install -D @autodevopsai/verifier
 
-# Python  
-pip install autodevopsai-verifier
-
-# Go
-go get github.com/autodevopsai/verifier-go
+- Go: `go install github.com/autodevopsai/verifier-go/cmd/verifier@latest && verifier --help`
+- Kotlin: `./gradlew run --args="--help"`
+- Python: `pip install -e ".[dev]" && verifier --help`
 ```
 
 ## 📦 Available Packages
