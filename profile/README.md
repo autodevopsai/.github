@@ -19,10 +19,10 @@ npm install -D @autodevopsai/verifier
 
 | Language | Repository | Package Registry | Status |
 |----------|------------|-----------------|---------|
-| TypeScript/Node | [verifier-ts](https://github.com/autodevopsai/verifier-ts) | [@autodevopsai/verifier](https://npmjs.com/package/@autodevopsai/verifier) | 🚧 Coming Soon |
-| Python | [verifier-py](https://github.com/autodevopsai/verifier-py) | [autodevopsai-verifier](https://pypi.org/project/autodevopsai-verifier) | 🚧 Coming Soon |
-| Go | [verifier-go](https://github.com/autodevopsai/verifier-go) | pkg.go.dev | 🚧 Coming Soon |
-| Kotlin/JVM | [verifier-kotlin](https://github.com/autodevopsai/verifier-kotlin) | Maven Central | 🚧 Coming Soon |
+| TypeScript/Node | [verifier-ts](https://github.com/autodevopsai/verifier-ts) | [@autodevopsai/verifier](https://npmjs.com/package/@autodevopsai/verifier) |  |
+| Python | [verifier-py](https://github.com/autodevopsai/verifier-py) | [autodevopsai-verifier](https://pypi.org/project/autodevopsai-verifier) |  |
+| Go | [verifier-go](https://github.com/autodevopsai/verifier-go) | pkg.go.dev |  |
+| Kotlin/JVM | [verifier-kotlin](https://github.com/autodevopsai/verifier-kotlin) | Maven Central |  |
 
 ## 🚨 The Problem
 
